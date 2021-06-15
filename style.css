@@ -1,0 +1,46 @@
+body{
+    background-color:lightcyan;
+}
+header {
+    text-align: center;
+    font-size: 50px;
+    font-family:cursive;
+    text-transform:uppercase;
+}
+.pic1 {
+    margin-left: 630px;
+}
+h2 {
+text-align: center;
+font-size: 50px;
+font-family:cursive;
+text-transform:uppercase
+}
+.pic2 {
+    margin-left: 700px;
+}
+.pic3 {
+    margin-left: 700px;
+}
+.pic4 {
+    margin-left: 710px;
+}
+.pic5 {
+    width: 500px;
+    margin-left: 700px
+}
+li {
+    inline
+}
+.link1 {
+    display: inline-block;
+    text-decoration: none;
+    background-color: OrangeRed;
+    padding: 8px 16px;
+    border-radius:10px
+    font-size: 35px;
+    font-family:cursive;
+}
+.link1:hover {
+    background-color: MediumAquamarine;
+}
